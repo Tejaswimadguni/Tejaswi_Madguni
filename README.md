@@ -15,10 +15,11 @@ higly interested in Machine Learning
 
 - C++
 - Data Structures
+- Full-Stack(in-progress);
 - Algorithms
 - Git & GitHub
 -ML(learning)
--webdev(in-progress)
+
 
 ---
 
